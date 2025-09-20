@@ -1829,6 +1829,8 @@
 0.0.0.0 a.omappapi.com
 
 # From xozilla.com
+0.0.0.0 xozilla.com
+0.0.0.0 www.xozilla.com
 0.0.0.0 www.ageverif.com
 0.0.0.0 wstats.ageverif.com
 0.0.0.0 udzpel.com
@@ -1846,6 +1848,22 @@
 0.0.0.0 xml.adzestoads.xyz
 0.0.0.0 www.votreimc.com
 0.0.0.0 www.good-trading.com
+0.0.0.0 adv1.clickadu.net
+0.0.0.0 jyzkut.com
+0.0.0.0 ownadx-xml.tri.media
+0.0.0.0 ownxml.admidainsight.com
+0.0.0.0 ownxml.bidderads.com
+0.0.0.0 ppcsearch.adzestocp.com
+0.0.0.0 www.votreimc.com
+
+# From 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
