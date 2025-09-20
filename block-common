@@ -1746,6 +1746,8 @@
 0.0.0.0 first.iovation.com
 0.0.0.0 api.omappapi.com
 0.0.0.0 a.omappapi.com
+
+# From xozilla.com
 0.0.0.0 www.ageverif.com
 0.0.0.0 wstats.ageverif.com
 0.0.0.0 udzpel.com
@@ -1757,12 +1759,12 @@
 0.0.0.0 iagrus.com
 0.0.0.0 api.around.xxx
 0.0.0.0 adzilla1.name
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
+0.0.0.0 xmlbid.adcannyxml.com
+0.0.0.0 xml.qualiclicks.com
+0.0.0.0 xml.bidderads.com
+0.0.0.0 xml.adzestoads.xyz
+0.0.0.0 www.votreimc.com
+0.0.0.0 www.good-trading.com
 #0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
