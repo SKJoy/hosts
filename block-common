@@ -1837,8 +1837,6 @@
 0.0.0.0 nursing.ubc.ca
 0.0.0.0 xhopen.com
 0.0.0.0 theporndude.com
-
-# From xozilla.com
 0.0.0.0 xozilla.com
 0.0.0.0 www.xozilla.com
 0.0.0.0 www.ageverif.com
@@ -1923,6 +1921,48 @@
 0.0.0.0 smartclip.com
 0.0.0.0 vortex.data.microsoft.com
 0.0.0.0 device-metrics-us.amazon.com
+0.0.0.0 sslwidget.criteo.com
+0.0.0.0 dis.us.criteo.com
+0.0.0.0 dis.eu.criteo.com
+0.0.0.0 cdn.taboola.com
+0.0.0.0 trc.taboola.com
+0.0.0.0 images.taboola.com
+0.0.0.0 outbrain.com
+0.0.0.0 log.outbrain.com
+0.0.0.0 propellerads.com
+0.0.0.0 ads.mopub.com
+0.0.0.0 api.vungle.com
+0.0.0.0 appnexus.com
+0.0.0.0 us-ads.openx.net
+0.0.0.0 indexexchange.com
+0.0.0.0 as.casalemedia.com
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
