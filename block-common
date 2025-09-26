@@ -1936,7 +1936,9 @@
 0.0.0.0 us-ads.openx.net
 0.0.0.0 indexexchange.com
 0.0.0.0 as.casalemedia.com
-#0.0.0.0 
+0.0.0.0 yarn.co
+0.0.0.0 www.yarn.co
+0.0.0.0 y.yarn.co
 #0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
