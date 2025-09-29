@@ -1971,7 +1971,7 @@
 0.0.0.0 mopub.com
 0.0.0.0 www.mopub.com
 0.0.0.0 api.mopub.com
-#0.0.0.0 
+0.0.0.0 vortex-win.data.microsoft.com
 #0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
