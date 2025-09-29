@@ -1961,10 +1961,16 @@
 0.0.0.0 analytics.samsungknox.com
 0.0.0.0 stake.com
 0.0.0.0 www.stake.com
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
+0.0.0.0 lgsmartad.com
+0.0.0.0 www.lgsmartad.com
+0.0.0.0 info.lgsmartad.com
+0.0.0.0 vizio.com
+0.0.0.0 www.vizio.com
+0.0.0.0 ads.vizio.com
+0.0.0.0 adlog.vivo.com
+0.0.0.0 mopub.com
+0.0.0.0 www.mopub.com
+0.0.0.0 api.mopub.com
 #0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
