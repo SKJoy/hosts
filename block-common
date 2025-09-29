@@ -1950,14 +1950,17 @@
 0.0.0.0 www.iubenda.com
 0.0.0.0 cdn.iubenda.com
 0.0.0.0 efyvcvjmtxg.com
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
+0.0.0.0 analytics.oneplus.cn
+0.0.0.0 cleverads.vn
+0.0.0.0 www.cleverads.vn
+0.0.0.0 youtube.cleverads.vn
+0.0.0.0 metrics.apple.com
+0.0.0.0 metrics4.data.hicloud.com
+0.0.0.0 www.cdn.ad.xiaomi.com
+0.0.0.0 api-hotjar.com
+0.0.0.0 analytics.samsungknox.com
+0.0.0.0 stake.com
+0.0.0.0 www.stake.com
 #0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
