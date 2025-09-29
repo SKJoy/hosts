@@ -1939,10 +1939,14 @@
 0.0.0.0 yarn.co
 0.0.0.0 www.yarn.co
 0.0.0.0 y.yarn.co
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
+0.0.0.0 priorato.org
+0.0.0.0 www.priorato.org
+0.0.0.0 btcpay.priorato.org
+0.0.0.0 careers.hotjar.com
+0.0.0.0 api.mouseflow.com
+0.0.0.0 goatcounter.com
+0.0.0.0 www.goatcounter.com
+0.0.0.0 testaruga.goatcounter.com
 #0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
