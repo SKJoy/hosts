@@ -1972,8 +1972,27 @@
 0.0.0.0 www.mopub.com
 0.0.0.0 api.mopub.com
 0.0.0.0 vortex-win.data.microsoft.com
-#0.0.0.0 
-#0.0.0.0 
+0.0.0.0 log.avlyun.sec.intl.miui.com
+0.0.0.0 external-promo-metrics.yandex.net
+0.0.0.0 hwstats.unity3d.com
+0.0.0.0 iads.unity3d.com
+0.0.0.0 appmetrica.yandex.net
+0.0.0.0 stats.video.search.yahoo.com
+0.0.0.0 stats.redditmedia.com
+0.0.0.0 tracker.redditmedia.com
+0.0.0.0 hotjar.io
+0.0.0.0 www.hotjar.io
+0.0.0.0 tracking.smartbusiness.samsung.com
+0.0.0.0 tracking.apac.business.samsung.com
+0.0.0.0 tracking.americas.business.samsung.com
+0.0.0.0 metrics.samsunglife.com
+0.0.0.0 admarketing.yahoo.net
+0.0.0.0 analytics.bigdata.samsung.com
+0.0.0.0 datacollector-dra.dt.hicloud.com
+0.0.0.0 adx-dre.op.hicloud.com
+0.0.0.0 stat-in.dc.oppomobile.com
+0.0.0.0 tracker.ai.xiaomi.com
+0.0.0.0 tracking.prd.mz.internal.unity3d.com
 #0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
