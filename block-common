@@ -96,6 +96,7 @@
 0.0.0.0 api.rb.sbixby.com
 0.0.0.0 impressbd.online
 0.0.0.0 empower-api.palmplaystore.com
+0.0.0.0 firebase-settings.crashlytics.com
 
 # Manual
 0.0.0.0 0fc32b5283.com
