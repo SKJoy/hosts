@@ -82,6 +82,17 @@
 0.0.0.0 azpdcsnyez2k.stretchoid.com
 0.0.0.0 c.aps.amazon-adsystem.com
 0.0.0.0 gtm.mouseflow.com
+0.0.0.0 scan.cypex.ai
+0.0.0.0 bam-cell.nr-data.net
+0.0.0.0 socks.imolive2.com
+0.0.0.0 setting.imoim.net
+0.0.0.0 dsu-a.shalltry.com
+0.0.0.0 bizconfig.palmplaystore.com
+0.0.0.0 api.palmplaystore.com
+0.0.0.0 osupdate2020.shalltry.com
+0.0.0.0 oslab.shalltry.com
+0.0.0.0 af.shalltry.com
+0.0.0.0 gslb.shalltry.com
 
 # Manual
 0.0.0.0 0fc32b5283.com
@@ -1993,7 +2004,7 @@
 0.0.0.0 stat-in.dc.oppomobile.com
 0.0.0.0 tracker.ai.xiaomi.com
 0.0.0.0 tracking.prd.mz.internal.unity3d.com
-#0.0.0.0 
+0.0.0.0 trkn.us
 #0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
@@ -2045,7 +2056,7 @@
 0.0.0.0 thumb-v5.xhcdn.com
 0.0.0.0 static-ah.xhcdn.com
 0.0.0.0 ic-vt-nss.xhcdn.com
-#0.0.0.0 
+0.0.0.0 i.bodrad.com
 #0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
