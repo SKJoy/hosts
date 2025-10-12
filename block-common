@@ -98,8 +98,19 @@
 0.0.0.0 empower-api.palmplaystore.com
 0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 quillbot.com
+0.0.0.0 ol-collector.quillbot.com
 0.0.0.0 v16-cla.tiktokcdn.com
 0.0.0.0 app-analytics-services.com
+0.0.0.0 cleanswipepro.com
+0.0.0.0 apps.cleanswipepro.com
+0.0.0.0 tools.cleanswipepro.com
+0.0.0.0 sf16-static.i18n-pglstatp.com
+0.0.0.0 pangle.io
+0.0.0.0 api16-access-wf-sg.pangle.io
+0.0.0.0 robin-flow.com
+0.0.0.0 api.robin-flow.com
+0.0.0.0 tkda.robin-flow.com
+0.0.0.0 arms-retcode.aliyuncs.com
 
 # Manual
 0.0.0.0 0fc32b5283.com
