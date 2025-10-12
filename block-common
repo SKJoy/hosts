@@ -98,8 +98,8 @@
 0.0.0.0 empower-api.palmplaystore.com
 0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 quillbot.com
-0.0.0.0 redwap.sex
-0.0.0.0 www.redwap.sex
+0.0.0.0 v16-cla.tiktokcdn.com
+0.0.0.0 app-analytics-services.com
 
 # Manual
 0.0.0.0 0fc32b5283.com
@@ -2082,7 +2082,10 @@
 0.0.0.0 nunuporn.com
 0.0.0.0 xxxbp.tv
 0.0.0.0 kompoz2.com
-#0.0.0.0 
+0.0.0.0 redwap.sex
+0.0.0.0 www.redwap.sex
+0.0.0.0 theyarehuge.com
+0.0.0.0 www.theyarehuge.com
 #0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
