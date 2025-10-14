@@ -120,11 +120,11 @@
 0.0.0.0 scripts.clarity.ms
 0.0.0.0 static-cdn.spot.im
 0.0.0.0 data.client.openweb.bid
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
+0.0.0.0 ivyayqdpwv.com
+0.0.0.0 sift.com
+0.0.0.0 pages.sift.com
+0.0.0.0 samsungadhub.com
+0.0.0.0 us.ibs.lgappstv.com
 #0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
