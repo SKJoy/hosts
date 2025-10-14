@@ -111,6 +111,22 @@
 0.0.0.0 api.robin-flow.com
 0.0.0.0 tkda.robin-flow.com
 0.0.0.0 arms-retcode.aliyuncs.com
+0.0.0.0 sellers-monitor-service.bidmatic.io
+0.0.0.0 spot.im
+0.0.0.0 www.spot.im
+0.0.0.0 player.spotim.market
+0.0.0.0 js.hs-banner.com
+0.0.0.0 launcher.spot.im
+0.0.0.0 scripts.clarity.ms
+0.0.0.0 static-cdn.spot.im
+0.0.0.0 data.client.openweb.bid
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
