@@ -128,13 +128,13 @@
 0.0.0.0 bluekai.com
 0.0.0.0 service2.us.incognia.com
 0.0.0.0 sdk.iad-05.braze.com
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
+0.0.0.0 argus-fra1.snigelweb.com
+0.0.0.0 adserv-sgp1.snigelweb.com
+0.0.0.0 adengine.snigelweb.com
+0.0.0.0 cdn.snigelweb.com
+0.0.0.0 cdnx.snigelweb.com
+0.0.0.0 floor.pbxai.com
+0.0.0.0 navvy.media.net
 #0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
