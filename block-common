@@ -64,6 +64,7 @@
 0.0.0.0 adaggreg-ali.shalltry.com
 0.0.0.0 api.hisavana.com
 0.0.0.0 cdn9.forter.com
+0.0.0.0 client.protechts.net
 0.0.0.0 tzm.protechts.net
 0.0.0.0 li.protechts.net
 0.0.0.0 feature-api.palmplaystore.com
@@ -1809,6 +1810,7 @@
 0.0.0.0 imp-dev.journeymv.com
 0.0.0.0 keywords.journeymv.com
 0.0.0.0 lexicon.33across.com
+0.0.0.0 lex.33across.com
 0.0.0.0 oa.openxcdn.net
 0.0.0.0 pandg.tapad.com
 0.0.0.0 pdmp.dcapi.dmp.3lift.com
@@ -1929,7 +1931,6 @@
 0.0.0.0 ppcsearch.adzestocp.com
 0.0.0.0 www.votreimc.com
 0.0.0.0 cs.ns1p.net
-0.0.0.0 rum15.perf.linkedin.com
 0.0.0.0 s.ns1p.net
 0.0.0.0 media.fastclick.net
 0.0.0.0 hotjar-analytics.com
@@ -2075,8 +2076,11 @@
 0.0.0.0 xjowkbpwzznav.website
 0.0.0.0 jmabcnclmfkrg.store
 0.0.0.0 limeiptv.to
-#0.0.0.0 
-#0.0.0.0 
+0.0.0.0 sync.teads.tv
+0.0.0.0 rum14.perf.linkedin.com
+0.0.0.0 rum15.perf.linkedin.com
+0.0.0.0 rum20.perf.linkedin.com
+0.0.0.0 rum22.perf.linkedin.com
 #0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
