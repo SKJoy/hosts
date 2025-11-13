@@ -1,4 +1,5 @@
 # From PiHole query log
+0.0.0.0 sf16-telemetry-proxy-oci.tiktokcdn-us.com
 0.0.0.0 contentcenter-dra.dbankcdn.cn
 0.0.0.0 aggr19-normal.tiktokv.us
 0.0.0.0 api22-core.tiktokv.com
