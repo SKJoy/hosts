@@ -1,4 +1,6 @@
 # From PiHole query log
+0.0.0.0 contentcenter-dra.dbankcdn.cn
+0.0.0.0 aggr19-normal.tiktokv.us
 0.0.0.0 api22-core.tiktokv.com
 0.0.0.0 fast.wistia.com
 0.0.0.0 tr-rc.lfeeder.com
