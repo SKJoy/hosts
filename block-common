@@ -1,4 +1,6 @@
 # From PiHole query log
+0.0.0.0 app-analytics-services-att.com
+0.0.0.0 collector-pxljub4etb.perimeterx.net
 0.0.0.0 4642f00f51094e9ba43f6a4db32c09bb-4c4cc75a16ed.cdn.forter.com
 0.0.0.0 xlgmedia.com
 0.0.0.0 ogads-pa.clients6.google.com
@@ -2258,6 +2260,35 @@
 0.0.0.0 js.capndr.com
 0.0.0.0 pointcontinentrtb.com
 0.0.0.0 stripchatgirls.com
+0.0.0.0 analytics.ozlinedsp.com
+0.0.0.0 creatives.altaffiliatesol.com
+0.0.0.0 img.altaffiliatesol.com
+0.0.0.0 proc.altaffiliatesol.com
+0.0.0.0 srv2.altaffiliatesol.com
+0.0.0.0 tkpopp.com
+0.0.0.0 landing.hentaiheroes.com
+0.0.0.0 s.optvz.com
+0.0.0.0 s3t3d2y9.afcdn.net
+0.0.0.0 a.labadena.com
+0.0.0.0 agl111.pro
+0.0.0.0 amd-cdn-1.ffb7df5a878b59e42e257c042f54bed2.com
+0.0.0.0 auction-proxy23.site
+0.0.0.0 bid.onclckstr.com
+0.0.0.0 kts.sensitiveclick.com
+0.0.0.0 mauc.onclckstr.com
+0.0.0.0 r.visitstats.com
+0.0.0.0 spx-s1.agl002.online
+0.0.0.0 tcimp.zog.link
+0.0.0.0 uvi-5556.agenteimmobiliare.info
+0.0.0.0 whoisezh.com
+0.0.0.0 z.cdn.xbeat.space
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
