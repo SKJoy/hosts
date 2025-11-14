@@ -1,4 +1,5 @@
 # From PiHole query log
+0.0.0.0 media.zenfs.com
 0.0.0.0 sf16-telemetry-proxy-oci.tiktokcdn-us.com
 0.0.0.0 contentcenter-dra.dbankcdn.cn
 0.0.0.0 aggr19-normal.tiktokv.us
@@ -2142,6 +2143,7 @@
 #0.0.0.0 
 
 # Porn
+0.0.0.0 aagmaal.dev
 0.0.0.0 mat6tube.com
 0.0.0.0 aj2555.bid
 0.0.0.0 fh-wgt.com
