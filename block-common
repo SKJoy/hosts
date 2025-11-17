@@ -1,9 +1,15 @@
+# Verify
+0.0.0.0 presence.roblox.com
+0.0.0.0 www.roblox.com
+0.0.0.0 gateway.fe2.apple-dns.net
+
 # Verified useful
 #0.0.0.0 redirector.googlevideo.com
 #0.0.0.0 yt3.ggpht.com
 #0.0.0.0 youtubei.googleapis.com
 
 # From PiHole query log
+0.0.0.0 logs.netflix.com
 0.0.0.0 media.zenfs.com
 0.0.0.0 sf16-telemetry-proxy-oci.tiktokcdn-us.com
 0.0.0.0 contentcenter-dra.dbankcdn.cn
