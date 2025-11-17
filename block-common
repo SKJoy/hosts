@@ -1,3 +1,8 @@
+# Verify
+0.0.0.0 redirector.googlevideo.com
+0.0.0.0 yt3.ggpht.com
+0.0.0.0 youtubei.googleapis.com
+
 # From PiHole query log
 0.0.0.0 media.zenfs.com
 0.0.0.0 sf16-telemetry-proxy-oci.tiktokcdn-us.com
