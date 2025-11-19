@@ -9,6 +9,23 @@
 #0.0.0.0 youtubei.googleapis.com
 
 # From PiHole query log
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+0.0.0.0 cdn.bannersnack.com
+0.0.0.0 static.adsafeprotected.com
+0.0.0.0 stats.bannersnack.com
+0.0.0.0 nmetrics.samsung.com
 0.0.0.0 logs.netflix.com
 0.0.0.0 media.zenfs.com
 0.0.0.0 sf16-telemetry-proxy-oci.tiktokcdn-us.com
