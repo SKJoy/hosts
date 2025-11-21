@@ -4,6 +4,7 @@
 0.0.0.0 gateway.fe2.apple-dns.net
 
 # Verified useful
+#0.0.0.0 ogs.google.com
 #0.0.0.0 redirector.googlevideo.com
 #0.0.0.0 yt3.ggpht.com
 #0.0.0.0 youtubei.googleapis.com
@@ -53,7 +54,6 @@
 0.0.0.0 4642f00f51094e9ba43f6a4db32c09bb-4c4cc75a16ed.cdn.forter.com
 0.0.0.0 xlgmedia.com
 0.0.0.0 ogads-pa.clients6.google.com
-0.0.0.0 ogs.google.com
 0.0.0.0 xhamster.com
 0.0.0.0 sacwumsf.com
 0.0.0.0 epidermispushupvariable.com
