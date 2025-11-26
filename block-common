@@ -250,7 +250,7 @@
 #0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
-#0.0.0.0 
+0.0.0.0 api.workos.com
 0.0.0.0 workos.imgix.net
 0.0.0.0 o207216.ingest.sentry.io
 0.0.0.0 4.adsco.re
