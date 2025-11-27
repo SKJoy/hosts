@@ -4,6 +4,7 @@
 0.0.0.0 gateway.fe2.apple-dns.net
 
 # Verified useful
+#0.0.0.0 api.workos.com
 #0.0.0.0 ogs.google.com
 #0.0.0.0 redirector.googlevideo.com
 #0.0.0.0 yt3.ggpht.com
@@ -251,7 +252,7 @@
 #0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
-0.0.0.0 api.workos.com
+#0.0.0.0 
 0.0.0.0 o207216.ingest.sentry.io
 0.0.0.0 4.adsco.re
 0.0.0.0 0fc32b5283.com
