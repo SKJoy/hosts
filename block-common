@@ -252,7 +252,7 @@
 #0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
-#0.0.0.0 
+0.0.0.0 client.aps.amazon-adsystem.com
 0.0.0.0 o207216.ingest.sentry.io
 0.0.0.0 4.adsco.re
 0.0.0.0 0fc32b5283.com
@@ -2198,7 +2198,7 @@
 #0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
-#0.0.0.0 
+#0.0.0.0 www.fpo.xxx
 0.0.0.0 join.familystrokes.com
 0.0.0.0 ads-tours-api.psmcode.com
 0.0.0.0 www.pervmom.com
