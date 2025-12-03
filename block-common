@@ -4,6 +4,7 @@
 0.0.0.0 gateway.fe2.apple-dns.net
 
 # Verified useful
+#0.0.0.0 unpkg.com
 #0.0.0.0 api.workos.com
 #0.0.0.0 ogs.google.com
 #0.0.0.0 redirector.googlevideo.com
@@ -1538,7 +1539,6 @@
 0.0.0.0 underdog.media
 0.0.0.0 unfaithfulmakeryearly.com
 0.0.0.0 unibots.b-cdn.net
-0.0.0.0 unpkg.com
 0.0.0.0 unseenreport.com
 0.0.0.0 upgulpinon.com
 0.0.0.0 upload.luckyorange.net
