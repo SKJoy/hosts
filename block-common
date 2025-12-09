@@ -274,7 +274,7 @@
 #0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
-#0.0.0.0 
+0.0.0.0 cdn.segment.com
 0.0.0.0 shareasale-analytics.com
 0.0.0.0 aan.amazon.com
 0.0.0.0 statdynamic.com
