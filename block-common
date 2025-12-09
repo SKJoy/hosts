@@ -274,6 +274,12 @@
 #0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
+0.0.0.0 web.api.adtimaserver.vn
+0.0.0.0 static.adtimaserver.vn
+0.0.0.0 static2.adtimaserver.vn
+0.0.0.0 api.adtimaserver.vn
+0.0.0.0 log.adtimaserver.vn
+0.0.0.0 media.adtimaserver.vn
 0.0.0.0 cdn.segment.com
 0.0.0.0 shareasale-analytics.com
 0.0.0.0 aan.amazon.com
