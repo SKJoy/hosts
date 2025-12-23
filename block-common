@@ -10,6 +10,7 @@
 #0.0.0.0 c1.ttcache.com
 
 # Verify
+#0.0.0.0 ssl.p.jwpcdn.com
 0.0.0.0 presence.roblox.com
 0.0.0.0 www.roblox.com
 0.0.0.0 gateway.fe2.apple-dns.net
@@ -319,7 +320,6 @@
 0.0.0.0 cd.connatix.com
 0.0.0.0 mssl.fwmrm.net
 0.0.0.0 g.jwpsrv.com
-0.0.0.0 ssl.p.jwpcdn.com
 0.0.0.0 dai.google.com
 0.0.0.0 js.driftt.com
 0.0.0.0 trackcmp.net
@@ -2398,7 +2398,7 @@
 #0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
-#0.0.0.0 
+#0.0.0.0 www.rexporn.sex
 0.0.0.0 www.pecantinglytripod.com
 0.0.0.0 pecantinglytripod.com
 0.0.0.0 spyglass.reklon.net
