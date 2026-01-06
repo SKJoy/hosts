@@ -2424,9 +2424,9 @@
 #0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
+0.0.0.0 static.trustpielote.com
+0.0.0.0 go.godkc.com
+0.0.0.0 scalyreward.com
 0.0.0.0 ddll123.bhai88.art
 0.0.0.0 nexus-websocket-a.intercom.io
 0.0.0.0 api-iam.intercom.io
