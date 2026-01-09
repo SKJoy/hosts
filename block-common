@@ -337,6 +337,23 @@
 #0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
+0.0.0.0 www.flashb.id
+0.0.0.0 tn.flashb.id
+0.0.0.0 srv.flashb.id
+0.0.0.0 sonar.viously.com
+0.0.0.0 lb.eu-1-id5-sync.com
+0.0.0.0 id5-sync.com
+0.0.0.0 gum.criteo.com
+0.0.0.0 e.viously.com
+0.0.0.0 bid.sparteo.com
+0.0.0.0 at.teads.tv
+0.0.0.0 visitor.omnitagjs.com
+0.0.0.0 t.fastcmp.com
+0.0.0.0 sync.sparteo.com
+0.0.0.0 static.fastcmp.com
+0.0.0.0 pbsj.bricks-co.com
+0.0.0.0 eu.fastcmp.com
+0.0.0.0 dsp-trvm.eskimi.com
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 web.api.adtimaserver.vn
 0.0.0.0 static.adtimaserver.vn
@@ -2411,23 +2428,6 @@
 #0.0.0.0 
 
 # Porn
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
