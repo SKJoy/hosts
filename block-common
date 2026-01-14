@@ -344,9 +344,9 @@
 #0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
+0.0.0.0 uk-script.dotmetrics.net
+0.0.0.0 rm-script.dotmetrics.net
+0.0.0.0 gn-web-assets.api.bbc.com
 0.0.0.0 vtrk.doubleverify.com
 0.0.0.0 tpsc-ae1.doubleverify.com
 0.0.0.0 tps.doubleverify.com
