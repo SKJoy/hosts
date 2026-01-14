@@ -339,11 +339,11 @@
 #0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
+0.0.0.0 e.clarity.ms
+0.0.0.0 www.clarity.ms
+0.0.0.0 csp.withgoogle.com
+0.0.0.0 syndication.twitter.com
+0.0.0.0 o912201.ingest.sentry.io
 0.0.0.0 uk-script.dotmetrics.net
 0.0.0.0 rm-script.dotmetrics.net
 0.0.0.0 gn-web-assets.api.bbc.com
