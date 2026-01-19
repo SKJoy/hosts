@@ -48,7 +48,7 @@
 #0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
-#0.0.0.0 
+0.0.0.0 sentry.cvtapi.com
 0.0.0.0 o22381.ingest.sentry.io
 0.0.0.0 prothom-alo.pushengage.com
 0.0.0.0 analytics.astian.org
@@ -2482,17 +2482,17 @@
 #0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
+0.0.0.0 beemtube.com
+0.0.0.0 en.wav.tv
+0.0.0.0 ap.octopuspop.com
+0.0.0.0 srv1.aaacompany.net
+0.0.0.0 e-boys-store.jp
+0.0.0.0 jnmedia.ero-video.net
+0.0.0.0 edayo.focas.jp
+0.0.0.0 cs.focas.jp
+0.0.0.0 tck.lmadps.jp
+0.0.0.0 gallerieshub.com
+0.0.0.0 pixelarchivenow.com
 0.0.0.0 vast.livejasmin.com
 0.0.0.0 wonporn.com
 0.0.0.0 adsxtits.com
