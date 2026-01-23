@@ -340,9 +340,9 @@
 #0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
+0.0.0.0 ip2geo.pubfuture-ad.com
+0.0.0.0 cdn.pubfuture-ad.com
+0.0.0.0 ads.bd24live.org
 0.0.0.0 upwork-privacy.my.onetrust.com
 0.0.0.0 e.clarity.ms
 0.0.0.0 www.clarity.ms
@@ -2498,7 +2498,7 @@
 #0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
-#0.0.0.0 
+0.0.0.0 ads.exoclick.com
 0.0.0.0 liebelib.net
 0.0.0.0 www.juicy-consequence.com
 0.0.0.0 pasttable.com
