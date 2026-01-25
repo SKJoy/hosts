@@ -311,35 +311,35 @@
 #0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
+0.0.0.0 vpaid.vidoomy.com
+0.0.0.0 vpaid.springserve.com
+0.0.0.0 vpaid.pubmatic.com
+0.0.0.0 vid.springserve.com
+0.0.0.0 vid.pubmatic.com
+0.0.0.0 vid-io-sin.springserve.com
+0.0.0.0 vid-io-iad.springserve.com
+0.0.0.0 vid-io-dub.springserve.com
+0.0.0.0 vid-io-cle.springserve.com
+0.0.0.0 user-sync.fwmrm.net
+0.0.0.0 targeting.unrulymedia.com
+0.0.0.0 sync-tm.everesttech.net
+0.0.0.0 st.pubmatic.com
+0.0.0.0 ssbsync.smartadserver.com
+0.0.0.0 ssb-global.smartadserver.com
+0.0.0.0 sf16-website-login.neutral.ttwstatic.com
+0.0.0.0 qsearch-a.akamaihd.net
+0.0.0.0 platform.twitter.com
+0.0.0.0 pixel-sync.sitescout.com
+0.0.0.0 optimized-by.rubiconproject.com
+0.0.0.0 nc.ritsads.com
+0.0.0.0 image8.pubmatic.com
+0.0.0.0 grid-bidder.criteo.com
+0.0.0.0 d.vidoomy.com
+0.0.0.0 currency.pubpowerplatform.io
+0.0.0.0 api.w.inmobi.com
+0.0.0.0 ads.vidoomy.com
+0.0.0.0 ad.vidoomy.com
+0.0.0.0 a.vidoomy.com
 0.0.0.0 ip2geo.pubfuture-ad.com
 0.0.0.0 cdn.pubfuture-ad.com
 0.0.0.0 ads.bd24live.org
