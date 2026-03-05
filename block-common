@@ -10,6 +10,7 @@
 #0.0.0.0 c1.ttcache.com
 
 # Verify
+#0.0.0.0 vjs.zencdn.net
 0.0.0.0 presence.roblox.com
 0.0.0.0 www.roblox.com
 0.0.0.0 gateway.fe2.apple-dns.net
@@ -1893,7 +1894,6 @@
 0.0.0.0 visitor.omnitagjs.com
 0.0.0.0 visualrevenue.com
 0.0.0.0 vixmwnivtbqk.com
-0.0.0.0 vjs.zencdn.net
 0.0.0.0 vmuid.com
 0.0.0.0 vop.sundaysky.com
 0.0.0.0 vpnkit.tech
