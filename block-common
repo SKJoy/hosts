@@ -10,9 +10,6 @@
 #0.0.0.0 c1.ttcache.com
 
 # Verify
-#0.0.0.0 vjs.zencdn.net
-0.0.0.0 presence.roblox.com
-0.0.0.0 www.roblox.com
 0.0.0.0 gateway.fe2.apple-dns.net
 
 # Verified useful
@@ -23,6 +20,7 @@
 #0.0.0.0 redirector.googlevideo.com
 #0.0.0.0 yt3.ggpht.com
 #0.0.0.0 youtubei.googleapis.com
+#0.0.0.0 vjs.zencdn.net
 
 # PiHole query log
 #0.0.0.0 
@@ -2511,6 +2509,28 @@
 0.0.0.0 settings-win.data.microsoft.com
 
 # Porn
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
