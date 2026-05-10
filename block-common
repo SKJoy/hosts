@@ -327,36 +327,103 @@
 #0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
+0.0.0.0 ultrawaf.canary.scrubbingcenter.com
+0.0.0.0 test-perfops.ldgslb.com
+0.0.0.0 test-perfops.haproxy.com
+0.0.0.0 test-perfops.blazingcdn.com
+0.0.0.0 stats.infinityfree.com
+0.0.0.0 rum.perfops.cdb.cdn.orange.com
+0.0.0.0 rum-cust.perfops.cdb.cdn.orange.com
+0.0.0.0 perfopsrumapi.akamaized.net
+0.0.0.0 perfopsrum.akamaized.net
+0.0.0.0 perfopsrum-eip.akamaized.net
+0.0.0.0 perfopsamd.akamaized.net
+0.0.0.0 perfops9.byte-test.com
+0.0.0.0 perfops8.byte-test.com
+0.0.0.0 perfops7.byte-test.com
+0.0.0.0 perfops6.byte-test.com
+0.0.0.0 perfops5.byte-test.com
+0.0.0.0 perfops4.byte-test.com
+0.0.0.0 perfops3.byte-test.com
+0.0.0.0 perfops2.byte-test.com
+0.0.0.0 perfops1.byte-test.com
+0.0.0.0 perfops.byte-test.com
+0.0.0.0 perfops9.byteperf.com
+0.0.0.0 perfops8.byteperf.com
+0.0.0.0 perfops7.byteperf.com
+0.0.0.0 perfops6.byteperf.com
+0.0.0.0 perfops5.byteperf.com
+0.0.0.0 perfops4.byteperf.com
+0.0.0.0 perfops3.byteperf.com
+0.0.0.0 perfops2.byteperf.com
+0.0.0.0 perfops1.byteperf.com
+0.0.0.0 perfops9.b-cdn.net
+0.0.0.0 perfops8.b-cdn.net
+0.0.0.0 perfops7.b-cdn.net
+0.0.0.0 perfops6.b-cdn.net
+0.0.0.0 perfops5.b-cdn.net
+0.0.0.0 perfops4.b-cdn.net
+0.0.0.0 perfops3.b-cdn.net
+0.0.0.0 perfops2.b-cdn.net
+0.0.0.0 perfops1.b-cdn.net
+0.0.0.0 perfops.swiftycdn.net
+0.0.0.0 perfops.pc.cdn.bitgravity.com
+0.0.0.0 perfops.gcorelabs.com
+0.0.0.0 perfops.edge.run
+0.0.0.0 perfops.cloudflareperf.com
+0.0.0.0 perfops-static.freetls.fastly.net
+0.0.0.0 perfops-bench.sos-ch-gva-9.exoscale-cdn.com
+0.0.0.0 perfops-bench.sos-ch-gva-8.exoscale-cdn.com
+0.0.0.0 perfops-bench.sos-ch-gva-7.exoscale-cdn.com
+0.0.0.0 perfops-bench.sos-ch-gva-6.exoscale-cdn.com
+0.0.0.0 perfops-bench.sos-ch-gva-5.exoscale-cdn.com
+0.0.0.0 perfops-bench.sos-ch-gva-4.exoscale-cdn.com
+0.0.0.0 perfops-bench.sos-ch-gva-3.exoscale-cdn.com
+0.0.0.0 perfops-bench.sos-ch-gva-2.exoscale-cdn.com
+0.0.0.0 perfops-bench.sos-ch-gva-1.exoscale-cdn.com
+0.0.0.0 perf.qinglanbaseanycast.com
+0.0.0.0 perf.ialicdn.com
+0.0.0.0 perf-test.sufycdn.com
+0.0.0.0 medianova-cdnperf.mncdn.com
+0.0.0.0 jyoeuacekpxb-pull.bpmedialive.com
+0.0.0.0 eo-static-perfops9.qcloudcdn.com
+0.0.0.0 eo-static-perfops8.qcloudcdn.com
+0.0.0.0 eo-static-perfops7.qcloudcdn.com
+0.0.0.0 eo-static-perfops6.qcloudcdn.com
+0.0.0.0 eo-static-perfops5.qcloudcdn.com
+0.0.0.0 eo-static-perfops4.qcloudcdn.com
+0.0.0.0 eo-static-perfops3.qcloudcdn.com
+0.0.0.0 eo-static-perfops2.qcloudcdn.com
+0.0.0.0 eo-static-perfops1.qcloudcdn.com
+0.0.0.0 eo-perfops12.qcloudteo.com
+0.0.0.0 eo-perfops11.qcloudteo.com
+0.0.0.0 eo-perfops10.qcloudteo.com
+0.0.0.0 eo-perfops9.qcloudteo.com
+0.0.0.0 eo-perfops8.qcloudteo.com
+0.0.0.0 eo-perfops7.qcloudteo.com
+0.0.0.0 eo-perfops6.qcloudteo.com
+0.0.0.0 eo-perfops5.qcloudteo.com
+0.0.0.0 eo-perfops4.qcloudteo.com
+0.0.0.0 eo-perfops3.qcloudteo.com
+0.0.0.0 eo-perfops2.qcloudteo.com
+0.0.0.0 eo-perfops1.qcloudteo.com
+0.0.0.0 devnull.perfops.net
+0.0.0.0 d3888oxgux3fey.cloudfront.net
+0.0.0.0 d161f70cbh7kx6.cloudfront.net
+0.0.0.0 cpt96125.shopvoxpopulus.com
+0.0.0.0 cdn.perftest.f5-cloud-demo.com
+0.0.0.0 akamai-cdn.perfops.io
+0.0.0.0 9.fb.html-load.com
+0.0.0.0 8.fb.html-load.com
+0.0.0.0 7.fb.html-load.com
+0.0.0.0 6.fb.html-load.com
+0.0.0.0 5.fb.html-load.com
+0.0.0.0 4.fb.html-load.com
+0.0.0.0 3.fb.html-load.com
+0.0.0.0 2.fb.html-load.com
+0.0.0.0 1.fb.html-load.com
+0.0.0.0 0.fb.html-load.com
+0.0.0.0 fb.html-load.com
 0.0.0.0 www3.doubleclick.net
 0.0.0.0 marketingplatform.google.com
 0.0.0.0 singular.net
