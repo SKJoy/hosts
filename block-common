@@ -376,6 +376,7 @@
 #0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
+0.0.0.0 finallymidwife.com
 0.0.0.0 udxtggvvp1mqup9v.test.resolver.perfops.net
 0.0.0.0 rum-mkt.perfops.cdb.cdn.orange.com
 0.0.0.0 rum-cdn.perfops.net
@@ -402,7 +403,6 @@
 0.0.0.0 2.finallymidwife.com
 0.0.0.0 1.finallymidwife.com
 0.0.0.0 0.finallymidwife.com
-0.0.0.0 finallymidwife.com
 0.0.0.0 ultrawaf.canary.scrubbingcenter.com
 0.0.0.0 test-perfops.ldgslb.com
 0.0.0.0 test-perfops.haproxy.com
