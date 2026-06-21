@@ -34,14 +34,14 @@
 #0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
+0.0.0.0 event-tracker-gcp.eqtv.io
+0.0.0.0 ms4.applvn.com
+0.0.0.0 logs.ads.vungle.com
+0.0.0.0 2ujcmo-adrevenue.appsflyersdk.com
+0.0.0.0 rt.applvn.com
+0.0.0.0 report.appmetrica.yandex.net
+0.0.0.0 ex-adreq-asia.vivoglobal.com
+0.0.0.0 prod.adjoe-programmatic.com
 0.0.0.0 analytics-tcp.mintegral.net
 0.0.0.0 us-west1-1.smartadserver.com
 0.0.0.0 ssb-usw1.smartadserver.com
