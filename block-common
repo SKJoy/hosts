@@ -42,9 +42,9 @@
 #0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
+0.0.0.0 analytics-tcp.mintegral.net
+0.0.0.0 us-west1-1.smartadserver.com
+0.0.0.0 ssb-usw1.smartadserver.com
 0.0.0.0 stream.lab.amplitude.com
 0.0.0.0 tg1.aniview.com
 0.0.0.0 on-hweudc-o.api.leiniao.com
