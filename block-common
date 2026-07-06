@@ -33,7 +33,7 @@
 #0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
-#0.0.0.0 
+0.0.0.0 telemetry.us.transcend.io
 0.0.0.0 event-tracker-gcp.eqtv.io
 0.0.0.0 ms4.applvn.com
 0.0.0.0 logs.ads.vungle.com
