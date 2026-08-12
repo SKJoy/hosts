@@ -342,12 +342,12 @@
 #0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
+0.0.0.0 rum-metrics.bunny.net
+0.0.0.0 metrics-bunny.net
+0.0.0.0 m.aibotstudio.com
+0.0.0.0 api.aibotstudio.com
+0.0.0.0 aibotstudio.s3.wasabisys.com
+0.0.0.0 582823ae.metrics-bunny.net
 0.0.0.0 2t2a.pokepopinstantfileloader.monster
 0.0.0.0 1xlite-98366.pro
 0.0.0.0 kilojaya.com
