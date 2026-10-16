@@ -332,15 +332,15 @@
 #0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
+0.0.0.0 ssum.casalemedia.com
+0.0.0.0 prebid.loopmertb.com
+0.0.0.0 hb-analytics.nextmillmedia.com
+0.0.0.0 dsum.casalemedia.com
+0.0.0.0 dmads.dailymotion.com
+0.0.0.0 dailymotion.rtb.us.admatic.de
+0.0.0.0 bid.zmaticoo.com
+0.0.0.0 adx3.adform.net
+0.0.0.0 ads.servenobid.com
 0.0.0.0 dhitc.com
 0.0.0.0 rum-metrics.bunny.net
 0.0.0.0 metrics-bunny.net
