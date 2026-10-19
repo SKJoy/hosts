@@ -30,6 +30,30 @@
 #0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+0.0.0.0 adsmetadata.startappservice.com
+0.0.0.0 api16-access-ttp.tiktokpangle.us
+0.0.0.0 cdn.iads.unity3d.com
+0.0.0.0 ae.iads.unity3d.com
+0.0.0.0 config.ads.vungle.com
 0.0.0.0 analytics.slashdotmedia.com
 0.0.0.0 analytics.cherry-ai.com
 0.0.0.0 ds.shalltry.com
@@ -2561,8 +2585,6 @@
 0.0.0.0 browser-http-intake.logs.datadoghq.com
 0.0.0.0 public-trace-http-intake.logs.datadoghq.com
 0.0.0.0 connect.facebook.net
-#0.0.0.0 graph.facebook.com
-#0.0.0.0 graph.instagram.com
 0.0.0.0 sc-static.net
 0.0.0.0 tr.snapchat.com
 0.0.0.0 ads.snapchat.com
