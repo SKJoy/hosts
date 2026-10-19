@@ -44,10 +44,10 @@
 #0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
+0.0.0.0 shasta-collector-production.upwork.com
+0.0.0.0 apitm.toolmatrix.plus
+0.0.0.0 infoevent.startappservice.com
+0.0.0.0 data.flurry.com
 0.0.0.0 traffic-nts-ip-assoc.xy.fbcdn.net
 0.0.0.0 traffic-nts-ip-assoc.xz.fbcdn.net
 0.0.0.0 adsmetadata.startappservice.com
