@@ -48,7 +48,8 @@
 #0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
-#0.0.0.0 
+0.0.0.0 traffic-nts-ip-assoc.xy.fbcdn.net
+0.0.0.0 traffic-nts-ip-assoc.xz.fbcdn.net
 0.0.0.0 adsmetadata.startappservice.com
 0.0.0.0 api16-access-ttp.tiktokpangle.us
 0.0.0.0 cdn.iads.unity3d.com
