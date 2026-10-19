@@ -2561,8 +2561,8 @@
 0.0.0.0 browser-http-intake.logs.datadoghq.com
 0.0.0.0 public-trace-http-intake.logs.datadoghq.com
 0.0.0.0 connect.facebook.net
-0.0.0.0 graph.facebook.com
-0.0.0.0 graph.instagram.com
+#0.0.0.0 graph.facebook.com
+#0.0.0.0 graph.instagram.com
 0.0.0.0 sc-static.net
 0.0.0.0 tr.snapchat.com
 0.0.0.0 ads.snapchat.com
