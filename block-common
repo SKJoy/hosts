@@ -43,7 +43,7 @@
 #0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
-#0.0.0.0 
+0.0.0.0 oslab.shalltry.com
 0.0.0.0 shasta-collector-production.upwork.com
 0.0.0.0 apitm.toolmatrix.plus
 0.0.0.0 infoevent.startappservice.com
@@ -2708,8 +2708,8 @@
 #0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
+0.0.0.0 vitting.org
+0.0.0.0 namebrain.org
 0.0.0.0 s.vfnexom.com
 0.0.0.0 edge-hls.saawsedge.com
 0.0.0.0 media-hls.saawsedge.com
