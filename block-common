@@ -10,7 +10,7 @@
 #0.0.0.0 c1.ttcache.com
 
 # Verify
-0.0.0.0 gateway.fe2.apple-dns.net
+#0.0.0.0 gateway.fe2.apple-dns.net
 
 # Verified useful
 #0.0.0.0 ssl.p.jwpcdn.com
@@ -2710,11 +2710,11 @@
 #0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
+#0.0.0.0 s.vfnexom.com
+#0.0.0.0 edge-hls.saawsedge.com
+#0.0.0.0 media-hls.saawsedge.com
+#0.0.0.0 media-cdn-b7k6.space
+#0.0.0.0 www.frolicme.com
 0.0.0.0 tr.wanktube.tv
 0.0.0.0 sentry-k8s.aehost.me
 0.0.0.0 go.pornofm.live
