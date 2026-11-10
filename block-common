@@ -39,8 +39,8 @@
 #0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
+0.0.0.0 win-extension.femetrics.grammarly.io
+0.0.0.0 inkwell.femetrics.grammarly.io
 0.0.0.0 ads-router-noneu.truecaller.com
 0.0.0.0 metrics-dre.dt.hihonorcloud.com
 0.0.0.0 api.ad.intl.xiaomi.com
