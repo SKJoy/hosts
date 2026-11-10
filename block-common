@@ -21,6 +21,7 @@
 #0.0.0.0 yt3.ggpht.com
 #0.0.0.0 youtubei.googleapis.com
 #0.0.0.0 vjs.zencdn.net
+#0.0.0.0 easylist-downloads.adblockplus.org
 
 # PiHole query log
 #0.0.0.0 
@@ -333,7 +334,6 @@
 0.0.0.0 pa.netcoresmartech.com
 0.0.0.0 adblock.telemetry.eyeo.com
 0.0.0.0 stream.quillbot.com
-0.0.0.0 easylist-downloads.adblockplus.org
 0.0.0.0 oscloud.palm.tech
 0.0.0.0 account.palm.tech
 0.0.0.0 timer-feature-api.palmplaystore.com
@@ -2754,13 +2754,13 @@
 #0.0.0.0 
 #0.0.0.0 
 #0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
+0.0.0.0 jwn88.live
+0.0.0.0 www.limpingnet.com
+0.0.0.0 buzzing-girlfriend.com
+0.0.0.0 lp.realintelligence360.com
+0.0.0.0 www.momslust.com
+0.0.0.0 en.luxuretv.com
+0.0.0.0 allclassic.porn
 0.0.0.0 www.csicskalangos.com
 0.0.0.0 www.torpapa.com
 0.0.0.0 mobifever.co
